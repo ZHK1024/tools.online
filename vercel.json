@@ -1,9 +1,16 @@
 {
-    "redirects": [
-      {
-        "source": "/",
-        "destination": "/en/index.html",
-        "permanent": true
-      }
+    "routes": [
+        {
+            "src": "/",
+            "dest": "/en/index.html"
+        },
+        {
+            "src": "/en",
+            "dest": "/en/index.html"
+        },
+        {
+            "src": "/zh_CN",
+            "dest": "/zh_CN/index.html"
+        }
     ]
-  }
+}
