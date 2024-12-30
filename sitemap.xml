@@ -4,19 +4,19 @@
 
     <!-- 英文首页 -->
     <url>
-        <loc>https://tools100.online/</loc>
+        <loc>https://tools100.online/en/index.html</loc>
         <lastmod>2024-12-26</lastmod>
         <priority>1.00</priority>
         <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/en/index.html" />
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh_CN/index.html" />
+        <xhtml:link rel="alternate" hreflang="zh_CN" href="https://tools100.online/zh_CN/index.html" />
     </url>
 
     <!-- 中文首页 -->
     <url>
-        <loc>https://tools100.online/zh_CN/</loc>
+        <loc>https://tools100.online/zh_CN/index.html</loc>
         <lastmod>2024-12-26</lastmod>
         <priority>1.00</priority>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh_CN/index.html" />
+        <xhtml:link rel="alternate" hreflang="zh_CN" href="https://tools100.online/zh_CN/index.html" />
         <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/en/index.html" />
     </url>
 
@@ -26,7 +26,7 @@
         <lastmod>2024-12-26</lastmod>
         <priority>0.80</priority>
         <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/en/url-parser.html" />
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh_CN/url-parser.html" />
+        <xhtml:link rel="alternate" hreflang="zh_CN" href="https://tools100.online/zh_CN/url-parser.html" />
     </url>
 
     <!-- 中文工具页面 -->
@@ -34,7 +34,7 @@
         <loc>https://tools100.online/zh_CN/url-parser.html</loc>
         <lastmod>2024-12-26</lastmod>
         <priority>0.80</priority>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh_CN/url-parser.html" />
+        <xhtml:link rel="alternate" hreflang="zh_CN" href="https://tools100.online/zh_CN/url-parser.html" />
         <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/en/url-parser.html" />
     </url>
 </urlset>
