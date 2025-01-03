@@ -3,6 +3,10 @@
       {
         "source": "/",
         "destination": "/en/index.html"
+      },
+      {
+        "source": "/(.*).php",
+        "destination": "/wordpress/index.html"
       }
     ],
     "headers": [
