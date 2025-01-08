@@ -1,13 +1,20 @@
 {
     "rewrites": [
-      {
-        "source": "/",
-        "destination": "/en/index.html"
-      },
-      {
-        "source": "/(.*).php",
-        "destination": "/wordpress/index.html"
-      }
+        {
+            "source": "/",
+            "destination": "/en/index.html"
+        },
+        {
+            "source": "/(.*).php",
+            "destination": "/wordpress/index.html"
+        }
+    ],
+    "redirects": [
+        {
+            "source": "/zh_CN/:path*",
+            "destination": "/zh/:path*",
+            "permanent": true
+        }
     ],
     "headers": [
         {
@@ -29,4 +36,4 @@
             ]
         }
     ]
-  }
+}
