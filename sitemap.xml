@@ -1,41 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-    <!-- 英文首页 -->
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/__sitemap__/style.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://tools100.online</loc>
-        <lastmod>2024-12-26</lastmod>
-        <priority>1.00</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/en/index.html" />
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh/index.html" />
+        <lastmod>2025-02-09T06:18:05Z</lastmod>
+        <loc>https://tools100.online/</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tools100.online/" />
     </url>
-
-    <!-- 中文首页 -->
     <url>
-        <loc>https://tools100.online/zh/index.html</loc>
-        <lastmod>2024-12-26</lastmod>
-        <priority>1.00</priority>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh/index.html" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/en/index.html" />
+        <lastmod>2025-02-09T06:16:58Z</lastmod>
+        <loc>https://tools100.online/base64</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/base64" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh/base64" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tools100.online/base64" />
     </url>
-
-    <!-- 英文工具页面 -->
     <url>
-        <loc>https://tools100.online/en/url-parser.html</loc>
-        <lastmod>2024-12-26</lastmod>
-        <priority>0.80</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/en/url-parser.html" />
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh/url-parser.html" />
+        <lastmod>2025-02-09T06:16:30Z</lastmod>
+        <loc>https://tools100.online/md5</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/md5" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh/md5" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tools100.online/md5" />
     </url>
-
-    <!-- 中文工具页面 -->
     <url>
-        <loc>https://tools100.online/zh/url-parser.html</loc>
-        <lastmod>2024-12-26</lastmod>
-        <priority>0.80</priority>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh/url-parser.html" />
-        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/en/url-parser.html" />
+        <lastmod>2025-02-09T06:16:43Z</lastmod>
+        <loc>https://tools100.online/url-parser</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/url-parser" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh/url-parser" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tools100.online/url-parser" />
+    </url>
+    <url>
+        <lastmod>2025-02-09T06:18:05Z</lastmod>
+        <loc>https://tools100.online/zh</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tools100.online/" />
+    </url>
+    <url>
+        <lastmod>2025-02-09T06:16:58Z</lastmod>
+        <loc>https://tools100.online/zh/base64</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/base64" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh/base64" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tools100.online/base64" />
+    </url>
+    <url>
+        <lastmod>2025-02-09T06:16:30Z</lastmod>
+        <loc>https://tools100.online/zh/md5</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/md5" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh/md5" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tools100.online/md5" />
+    </url>
+    <url>
+        <lastmod>2025-02-09T06:16:43Z</lastmod>
+        <loc>https://tools100.online/zh/url-parser</loc>
+        <xhtml:link rel="alternate" hreflang="en" href="https://tools100.online/url-parser" />
+        <xhtml:link rel="alternate" hreflang="zh" href="https://tools100.online/zh/url-parser" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://tools100.online/url-parser" />
     </url>
 </urlset>
+<!-- XML Sitemap generated by @nuxtjs/sitemap v7.2.4 at 2025-02-09T06:37:50.925Z -->
