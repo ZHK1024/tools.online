@@ -9,13 +9,6 @@
             "destination": "/wordpress/index.html"
         }
     ],
-    "redirects": [
-        {
-            "source": "/zh_CN/:path*",
-            "destination": "/zh/:path*",
-            "permanent": true
-        }
-    ],
     "headers": [
         {
             "source": "/(.*)",
