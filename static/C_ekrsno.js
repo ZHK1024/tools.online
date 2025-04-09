@@ -1,0 +1,1 @@
+const c=(a,t)=>{},e=(a,t)=>{},o=async(a,t)=>{try{await navigator.clipboard.writeText(a),c(t("copy.title.success"),t("copy.message.success"))}catch(s){e(t("copy.title.error"),s.toString())}},r=async()=>await navigator.clipboard.readText();export{o as a,r as c,e as n};
